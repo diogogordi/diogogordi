@@ -1,6 +1,5 @@
 salve salve família
 
-![anime-guts](https://user-images.githubusercontent.com/93879346/165981422-bd28e818-87a9-4eaf-ba5e-880d4a98acee.gif)
 
 
 <!---
