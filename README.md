@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @diogogordi
+salve salve família
 
-![aa41affcb1b66bc7c33d8026ef67cec2](https://user-images.githubusercontent.com/93879346/165977958-fe2fb4ba-e599-43b1-a457-b0cef8ceab43.gif)
+![neon-genesis](https://user-images.githubusercontent.com/93879346/165979996-5fa8e32b-6b71-43ab-8be3-f6c61dfc051e.gif)
+
 
 <!---
 diogogordi/diogogordi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
